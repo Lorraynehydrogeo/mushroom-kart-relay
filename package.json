@@ -1,0 +1,9 @@
+{
+  "name": "mushroom-kart-relay",
+  "version": "1.0.0",
+  "description": "Relay de salas online do Mushroom Kart World",
+  "main": "relay.js",
+  "scripts": { "start": "node relay.js" },
+  "dependencies": { "ws": "^8.18.0" },
+  "engines": { "node": ">=18" }
+}
